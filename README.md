@@ -11,7 +11,7 @@ Submission Date: 16-08-2025
 CONTENT DESCRIPTION
 ----------------------------------------------------
 1. setup.sql
-   - Builds the database `streaming_lab2`
+   - Builds the database `gaurav_lab2`
    - Defines tables: Shows, Subscribers, WatchHistory
    - Loads sample records provided in the lab instructions
 
